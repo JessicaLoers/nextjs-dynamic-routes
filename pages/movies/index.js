@@ -8,6 +8,9 @@ export default function Movies() {
         <li>
           <Link href={`/movies/aquaman`}>Aquaman</Link>
         </li>
+        <li>
+          <Link href={`/movies/the-avengers`}>The Avengers</Link>
+        </li>
       </ul>
     </>
   );
